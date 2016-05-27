@@ -1,8 +1,10 @@
 <?php
 /**
- * Author: Todd Motto | @toddmotto
- * URL: html5blank.com | @html5blank
+ * Author: Simon Daley | @_webbbr
+ * URL: custompress.net 
  * Custom functions, support, custom post types and more.
+ *
+ * HTML5Blank Author: Todd Motto | @toddmotto
  */
 
 require_once "modules/is-debug.php";
